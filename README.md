@@ -1,8 +1,7 @@
-![Welcome](https://i.pinimg.com/originals/02/1b/3f/021b3fa49250d0a2988c4205cfecc742.gif)
 
 
 
-<b>I am Naman Sharma popularly known as  ✨PGamerX ✨ </b>
+<h1>I am Naman Sharma popularly known as  ✨PGamerX ✨ </h1>
 
 
 
