@@ -5,7 +5,7 @@
 
 ![Welcome](https://i.pinimg.com/originals/02/1b/3f/021b3fa49250d0a2988c4205cfecc742.gif)
 
-Here are some ideas to get you started:
+About me 
 
 - 🔭 I’m currently working on so many bots idk myself ...
 - 🌱 I’m currently learning advance javascript and basic python ...
