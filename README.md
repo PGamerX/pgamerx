@@ -1,9 +1,9 @@
-<h1> Hi there 👋 </h1>
-
-
-<b>I am Naman Sharma popularly known as  ✨PGamerX ✨ </b>
-
 ![Welcome](https://i.pinimg.com/originals/02/1b/3f/021b3fa49250d0a2988c4205cfecc742.gif)
+
+
+
+<h1>I am Naman Sharma popularly known as  ✨PGamerX ✨ </h1>
+
 
 <h1>About me</h1>
 
