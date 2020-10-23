@@ -1,11 +1,14 @@
-### Hi there 👋
+<h1> Hi there 👋 </h1>
 
 
 <b>I am Naman Sharma popularly known as  ✨PGamerX ✨ </b>
 
 ![Welcome](https://i.pinimg.com/originals/02/1b/3f/021b3fa49250d0a2988c4205cfecc742.gif)
 
-About me 
+<h1>About me</h1>
+
+![About me](https://raw.githubusercontent.com/gist/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%20Me.gif)
+
 
 - 🔭 I’m currently working on so many bots idk myself ...
 - 🌱 I’m currently learning advance javascript and basic python ...
