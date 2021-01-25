@@ -3,10 +3,6 @@
 
 <h1>I am Naman Sharma popularly known as  ✨PGamerX ✨ </h1>
 
-
-
-![About me](https://raw.githubusercontent.com/gist/UddeshJain/90646446c86e45c494d6e69bfc3005f1/raw/b15bee8a8b85f8740795b92c1878ab8ed9ec2204/About%20Me.gif)
-
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U438GWF)
 
 - 🔭 I’m currently working on so many bots idk myself ...
