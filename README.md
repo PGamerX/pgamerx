@@ -13,6 +13,6 @@
 - ⚡ Fun fact: My npm package has over 2k downloads...
 
 ### Connect with me 
-[Discord Server](https://discord.com/invite/vkBnQwhpHM)
-[Youtube](https://youtube.com/pgamerx)
-[Twitter](https://twitter.com/ytpgamerx)
+[Discord Server](https://discord.com/invite/vkBnQwhpHM)         
+[Youtube](https://youtube.com/pgamerx)         
+[Twitter](https://twitter.com/ytpgamerx)            
