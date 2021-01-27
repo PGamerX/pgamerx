@@ -16,3 +16,10 @@
 [Discord Server](https://discord.com/invite/vkBnQwhpHM)         
 [Youtube](https://youtube.com/pgamerx)         
 [Twitter](https://twitter.com/ytpgamerx)            
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="PGamerX's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pgamerxdev&show_icons=true&hide_border=true&theme=radical" />
+
+</details>
