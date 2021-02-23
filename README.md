@@ -17,9 +17,4 @@
 [Youtube](https://youtube.com/pgamerx)         
 [Twitter](https://twitter.com/ytpgamerx)            
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="PGamerX's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=pgamerxdev&show_icons=true&hide_border=true&theme=radical" />
-
-</details>
+The Repositories here are useless and I only make/maintain repositories in my [Organisation](https://github.com/pgamerxstudio)
