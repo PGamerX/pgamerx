@@ -42,7 +42,7 @@
 
 <hr>
 <p align="center">
-Developed with ❤️ in India 🇮🇳 
+Developed with ❤️ 
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pgamerxdev&show_icons=true&locale=en&layout=compact" alt="pgamerxdev" /></p>
 
