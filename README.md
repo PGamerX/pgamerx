@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PGamerX</h1>
 <h3 align="center">A self-learning developer from India</h3>
 
-- 🔭 I’m currently working on [Random-stuff-api](https://github.com/pgamerxstudio/projects/tree/api)
+- 🔭 I’m currently working on [Random-stuff-api](https://api.pgamerx.com)
 
 - 🌱 I’m currently learning **ReactJS, TensorFlow, Python**
 
