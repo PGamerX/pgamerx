@@ -16,11 +16,12 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- - $randomEmoji(💯 ,🔥 ,💫 ,🚀 ,🌮 )
- - $randomEmoji(💯 ,🔥 ,💫 ,🚀 ,🌮 )
- - $randomEmoji(💯 ,🔥 ,💫 ,🚀 ,🌮 )
- - $randomEmoji(💯 ,🔥 ,💫 ,🚀 ,🌮 )
- - $randomEmoji(💯 ,🔥 ,💫 ,🚀 ,🌮 )<!-- BLOG-POST-LIST:END -->
+- [Dear discord….Thank you](https://pgamerxdev.medium.com/dear-discord-thank-you-657a9c3afcc0?source=rss-ae0fcd7606d------2)
+- [How exactly to start your coding journey? | The beginner’s guide](https://pgamerxdev.medium.com/how-exactly-to-start-your-coding-journey-the-beginners-guide-7744db477249?source=rss-ae0fcd7606d------2)
+- [How to keep your bot alive without Discord.py](https://pgamerxdev.medium.com/how-to-keep-your-bot-alive-without-discord-py-c93049d7d1c0?source=rss-ae0fcd7606d------2)
+- [Make your own Rest API in NodeJS using ExpressJS | By PGamerX](https://pgamerxdev.medium.com/rest-api-409b7ffa1e78?source=rss-ae0fcd7606d------2)
+- [Make your own AI Chatbot for free using Random Stuff Api | PGamerX](https://pgamerxdev.medium.com/make-your-own-ai-chatbot-for-free-d69a88c66cff?source=rss-ae0fcd7606d------2)
+<!-- BLOG-POST-LIST:END -->
 
 
 <h3 align="left">Connect with me:</h3>
