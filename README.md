@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with [Javascript Development](https://pgamerx.com/discord)
 
-- 👨‍💻 All of my projects are available at [https://pgamerx.com](https://pgamerx.com)
+- 👨‍💻 All of my projects are available at [My website](https://pgamerx.com)
 
 - 💬 Ask me about **react, javascript**
 
