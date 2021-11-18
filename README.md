@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PGamerX</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on [Muser](https://github.com/pgamerx-legacy/muser)
+- 🔭 I’m currently working on [Yt Dislikes Viewer](https://github.com/pgamerx/yt-dislikes-viewer)
 
 - 🌱 I’m currently learning **Python, C#**
 
