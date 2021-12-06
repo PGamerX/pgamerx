@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, C#**
 
-- 🔭 I’m also working on [djs-addon](https://github.com/pgamerx/djs-addon)
+- 🔭 I’m also working on [djs-tickers](https://github.com/pgamerx/djs-tickets)
 
 - 👨‍💻 All of my projects are available at [My website](https://pgamerx.com)
 
