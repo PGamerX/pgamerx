@@ -16,11 +16,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Can Github Copilot beat the hardest coding questions from Google?](https://pgamerxdev.medium.com/can-github-copilot-beat-the-hardest-coding-questions-from-google-941315a762fa?source=rss-ae0fcd7606d------2)
 - [To the user who falsely accused me, Thank you](https://pgamerxdev.medium.com/to-the-user-who-falsely-accused-me-thank-you-ee05793b22dc?source=rss-ae0fcd7606d------2)
 - [Dear discord….Thank you](https://pgamerxdev.medium.com/dear-discord-thank-you-657a9c3afcc0?source=rss-ae0fcd7606d------2)
 - [How exactly to start your coding journey? | The beginner’s guide](https://pgamerxdev.medium.com/how-exactly-to-start-your-coding-journey-the-beginners-guide-7744db477249?source=rss-ae0fcd7606d------2)
 - [How to keep your bot alive without Discord.py](https://pgamerxdev.medium.com/how-to-keep-your-bot-alive-without-discord-py-c93049d7d1c0?source=rss-ae0fcd7606d------2)
-- [Make your own Rest API in NodeJS using ExpressJS | By PGamerX](https://pgamerxdev.medium.com/rest-api-409b7ffa1e78?source=rss-ae0fcd7606d------2)
 <!-- BLOG-POST-LIST:END -->
 
 
